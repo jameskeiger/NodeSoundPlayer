@@ -1,0 +1,22 @@
+{
+  "name": "NodeSoundPlayer",
+  "version": "0.0.0",
+  "description": "HTTP sound player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameskeiger/NodeSoundPlayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameskeiger/NodeSoundPlayer/issues"
+  },
+  "homepage": "https://github.com/jameskeiger/NodeSoundPlayer#readme",
+  "dependencies": {
+    "play-sound": "^1.1.3"
+  }
+}
